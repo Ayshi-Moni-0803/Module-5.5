@@ -1,0 +1,59 @@
+* {
+
+    font-family: 'Inter', sans-serif;
+}
+
+.header {
+    background: linear-gradient(360deg, #15ae2c 0%, rgba(1, 1, 0, 0) 100%);
+    height: 669px;
+
+}
+
+.header-title {
+    color: #1e1d1d;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header-description {
+    color: #090101;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.common-btn {
+    width: 160px;
+    height: 56px;
+    margin-left: 500px;
+    background-color: #FF5959;
+    align-items: center;
+    border: 0;
+    border-radius: 5px;
+
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+/* donate style */
+
+.donate-title {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+    text-align: center;
+    color: #121212;
+    margin-bottom: 20px;
+
+}
+
+.donate-description {
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+}
